@@ -15,19 +15,19 @@ Throughout this project, we learned a lot about server-side programming, JSON fo
 Here are the screenshots from our testing process, demonstrating the functionality and expected outputs for each of the GET routes in our API:
 
 - **Fetching a User by ID**  
-  ![Fetching a User by ID](images/id.png)  
+  ![Fetching a User by ID](Images/id.png)  
   This screenshot shows the API response when fetching user details based on a specific ID.
 
 - **Fetching All Users**  
-  ![Fetching All Users](images/user.png)  
+  ![Fetching All Users](Images/user.png)  
   Here, the API returns information about all users in the database.
 
 - **Fetching Users by Profession**  
-  ![Fetching Users by Profession](images/profession.png)  
+  ![Fetching Users by Profession](Images/profession.png)  
   This image demonstrates the API response when users are filtered by their profession.
 
 - **Fetching User by Specific Name**  
-  ![Fetching User by Specific Name](images/specificname.png)  
+  ![Fetching User by Specific Name](Images/specificname.png)  
   This screenshot captures the API's functionality to retrieve a user by a specific name.
 
 ## Discussion
